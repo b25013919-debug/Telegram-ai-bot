@@ -2,7 +2,7 @@ import telebot
 from google import genai
 
 # Токен твоего бота из Telegram
-TELEGRAM_TOKEN = "8428523164:AAHkzDNBMzKjQgcddr2a8wH27RWRUc0VNv0"
+TELEGRAM_TOKEN = "8994431659:AAGo93ht7rhVwzTfO75G2Rcro8Vgu4wIC70"
 # Ключ от Google AI Studio (убедись, что внутри кавычек нет лишних пробелов)
 GEMINI_API_KEY = "AQ.Ab8RN6IKuKkNBFnx9WFo6CUhBpfkPtsTvno89iiHdGQsXQlzfw"
 
